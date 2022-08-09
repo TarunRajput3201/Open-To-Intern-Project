@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TarunRajput3201/Open-to-Intern-Project.git"
+    "url": "git+https://github.com/TarunRajput3201/Open-To-Intern-Project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TarunRajput3201/Open-to-Intern-Project/issues"
+    "url": "https://github.com/TarunRajput3201/Open-To-Intern-Project/issues"
   },
-  "homepage": "https://github.com/TarunRajput3201/Open-to-Intern-Project#readme",
+  "homepage": "https://github.com/TarunRajput3201/Open-To-Intern-Project#readme",
   "dependencies": {
     "express": "^4.18.1",
     "mongoose": "^6.4.1",
