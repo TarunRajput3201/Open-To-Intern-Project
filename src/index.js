@@ -5,8 +5,8 @@ const route = require('./route.js');
 const mongoose= require('mongoose');
 const app = express();
 
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(express.json());
+
 app.use(multer().any())
 
 mongoose.connect("mongodb+srv://TarunRajput3201:B07QeYy2JnV33rgz@cluster0.7eei6gq.mongodb.net/group51Database", {
